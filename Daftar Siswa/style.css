@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Courgette";
+    src: url("font/Courgette-Regular.ttf");
+}
+
+body {
+    font-family: Verdana;
+    background-image: url("Latar.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#tabel-siswa {
+    border-collapse: collapse;
+    background-color: silver;
+    width: 60%;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
+
+img {
+    align-content: center;
+    width: 80%;
+    height: 80%;
+}
+
+th {
+    font-family: 'Gill Sans';
+}
+
+td {
+    font-family: 'Lucida Sans';
+    text-align: center;
+}
+
+
+
